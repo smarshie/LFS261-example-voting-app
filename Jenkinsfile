@@ -18,6 +18,8 @@ pipeline {
             steps {
                 echo 'Step 3'
                 sleep 5
+                echo 'Step 3a'
+                sleep 5
             }
         }          
     }
